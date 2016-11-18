@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lagrand_pset3</string>
+    <string name="movie_app">Movie App</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="movie_title">Movie title</string>
+    <string name="home">home</string>
+    <string name="video">video</string>
+    <string name="search">search</string>
+    <string name="movie">Movie</string>
+    <string name="rated">Rated</string>
+    <string name="genre">Genre</string>
+    <string name="release_date">Release date</string>
+    <string name="director">Director</string>
+    <string name="run_time">Run time</string>
+    <string name="description">Description</string>
+    <string name="add_to_watchlist">Add to watchlist</string>
+    <string name="empty_list">Your watchlist is empty, search for movies and add them to your watchlist!</string>
+    <string name="delete">delete</string>
+</resources>
